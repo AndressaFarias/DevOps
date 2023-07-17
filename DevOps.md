@@ -15,9 +15,17 @@ O curso tem por objetivo introduzir o amplo mercado que está cada dia mais fort
 
 - Não há por trás empresa ou organização que regulamente;  
 
-> _É a combinação de filosofias culturas, práticas e ferramentas para que exista um alinhamento dos times de Desenvolvimento e Operação com foco na entrega na entrega rápida de serviços com alto grau de qualidade_  
+> _É a combinação de filosofias, culturas, práticas e ferramentas para que exista um alinhamento dos times de Desenvolvimento e Operação com foco na entrega na entrega rápida de serviços com alto grau de qualidade_  
 
-- Tem como princípio promover a união entre as áreas e TI  
+- Tem como princípio promover a união entre as áreas e TI; 
+
+- Enquanto a equipe de **desenvolvimento** altera o código e implementa novas funcionalidades a equipe de **operação** se preocupa com com a estabilidade e desempenho do sistema em produção.
+
+- melhora colaboração;
+- melhor qualidade;
+- diminuir tempo de entrega;
+- entregas mais seguras;
+
 
 ## Acontecimento que levaram ao surgimento do DevOps  
 - 2001 Surgimento do Ágil;  
